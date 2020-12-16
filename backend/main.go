@@ -4,9 +4,9 @@ import (
 	"context"
 	"log"
 
-	"github.com/KOB4k/app/controllers"
-	_ "github.com/KOB4k/app/docs"
-	"github.com/KOB4k/app/ent"
+	"github.com/newler55/app/controllers"
+	_ "github.com/newler55/app/docs"
+	"github.com/newler55/app/ent"
 	"github.com/gin-contrib/cors"
 	"github.com/gin-gonic/gin"
 	_ "github.com/mattn/go-sqlite3"
@@ -106,9 +106,9 @@ func main() {
 	// Set Diseasetypes Data
 	diseasetypes := Diseasetypes{
 		Diseasetype: []Diseasetype{
-			Diseasetype{"โรคติดต่อ"},
-			Diseasetype{"โรคติดต่อต้องแจ้งความ"},
-			Diseasetype{"โรคติดต่ออันตราย"},
+			Diseasetype{"F03291"},
+			Diseasetype{"C48572"},
+			Diseasetype{"F00984"},
 		},
 	}
 
@@ -122,8 +122,9 @@ func main() {
 	// Set Employees Data
 	employees := Employees{
 		Employee: []Employee{
-			Employee{"D12345"},
-			Employee{"D54231"},
+			Employee{"นพ.เชาวนะ ดุสิตนานนท์"},
+			Employee{"พญ.รุ่งลัดดา ตัณฑวิเชียร"},
+			Employee{"ทพญ.เบญจวรรณ เพิ่มไชยศิริ"},
 		},
 	}
 
