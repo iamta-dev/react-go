@@ -6,7 +6,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/KOB4k/app/ent"
+	"github.com/newler55/app/ent"
 )
 
 // The DiseaseFunc type is an adapter to allow the use of ordinary

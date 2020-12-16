@@ -1,4 +1,4 @@
-module github.com/KOB4k/app
+module github.com/newler55/app
 
 go 1.14
 

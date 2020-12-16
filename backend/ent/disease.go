@@ -6,10 +6,10 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/KOB4k/app/ent/disease"
-	"github.com/KOB4k/app/ent/diseasetype"
-	"github.com/KOB4k/app/ent/employee"
-	"github.com/KOB4k/app/ent/severity"
+	"github.com/newler55/app/ent/disease"
+	"github.com/newler55/app/ent/diseasetype"
+	"github.com/newler55/app/ent/employee"
+	"github.com/newler55/app/ent/severity"
 	"github.com/facebookincubator/ent/dialect/sql"
 )
 

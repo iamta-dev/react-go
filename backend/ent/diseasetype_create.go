@@ -7,8 +7,8 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/KOB4k/app/ent/disease"
-	"github.com/KOB4k/app/ent/diseasetype"
+	"github.com/newler55/app/ent/disease"
+	"github.com/newler55/app/ent/diseasetype"
 	"github.com/facebookincubator/ent/dialect/sql/sqlgraph"
 	"github.com/facebookincubator/ent/schema/field"
 )

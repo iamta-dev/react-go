@@ -3,7 +3,7 @@
 package employee
 
 import (
-	"github.com/KOB4k/app/ent/predicate"
+	"github.com/newler55/app/ent/predicate"
 	"github.com/facebookincubator/ent/dialect/sql"
 	"github.com/facebookincubator/ent/dialect/sql/sqlgraph"
 )

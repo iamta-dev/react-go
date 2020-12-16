@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/KOB4k/app/ent/diseasetype"
+	"github.com/newler55/app/ent/diseasetype"
 	"github.com/facebookincubator/ent/dialect/sql"
 )
 

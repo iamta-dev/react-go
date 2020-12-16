@@ -6,8 +6,8 @@ import (
 	"strconv"
 
 	
-	"github.com/KOB4k/app/ent"
-	"github.com/KOB4k/app/ent/employee"
+	"github.com/newler55/app/ent"
+	"github.com/newler55/app/ent/employee"
 	"github.com/gin-gonic/gin"
 )
 
