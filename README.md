@@ -11,11 +11,11 @@
 
 ### UX/UI - Test
 * Login Page
-  <div style="text-align:center"><img src="./UI/home.png" width="100%"></img></div>
+  <div style="text-align:center"><img src="./UI/1-home.png" width="100%"></img></div>
 
 * Add Page
-  <div style="text-align:center"><img src="./UI/add1.png" width="100%"></div>
-  <div style="text-align:center"><img src="./UI/add2.png" width="100%"/></div>
+  <div style="text-align:center"><img src="./UI/2-add.png" width="100%"></div>
+  <div style="text-align:center"><img src="./UI/3-add.png" width="100%"/></div>
 
 * Table Page
-  <div style="text-align:center"><img src="./UI/table.png" width="100%"/></div>
+  <div style="text-align:center"><img src="./UI/4-table.png" width="100%"/></div>
