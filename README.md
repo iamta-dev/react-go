@@ -1,13 +1,13 @@
 # ระบบบันทึกข้อมูลผู้ป่วยใน
 
 ### frontend using ReactJs
-* `[node@12] npm install && yarn install`
-* `yarn start`
+* `[node@12] $ npm install && $ yarn install`
+* ` $ yarn start`
 
 
 ### backend using Go
-* `[go build database]`
-* `go run main.go`
+* `[go build database] $ go build -o main.exe main.go`
+* ` $ go run main.go`
 
 ### UX/UI - Test
 * Login Page
